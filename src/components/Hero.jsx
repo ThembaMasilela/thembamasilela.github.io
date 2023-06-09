@@ -67,8 +67,9 @@ const Hero = () => {
             <br className="sm:block hidden" />
             <br className="sm:block hidden" />
             <button className="bg-white hover:bg-gray-100 text-gray-800 font-semibold py-2 px-4 border border-gray-400 rounded shadow">
-  Send me a message
-</button>
+              
+              <a href="#contact">Send me a message</a>
+            </button>
           </div>
 
           <div
