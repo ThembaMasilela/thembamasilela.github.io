@@ -12,7 +12,7 @@ const Footer = () => {
           <a href="https://github.com/ThembaMasilela"><GitHubIcon /></a>
           <a href="mailto:thembanmasilela@gmail.com"><EmailIcon /></a>
       </div>
-      <p> &copy; Themba Masilela 2023</p>
+      <p> &copy; Themba Masilela 2024</p>
     </div>
   )
 }
