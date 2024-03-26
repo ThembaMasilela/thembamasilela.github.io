@@ -12,7 +12,7 @@ const Hero = () => {
       "Software Engineer",
       "System Analyst",
       "Business Analyst",
-      "Software Tester",
+      "Test Analyst",
     ],
     loop: 0,
   });
