@@ -37,13 +37,12 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        With over 7 years of professional experience, I am a highly skilled and motivated professional with expertise in 
-        Software Programming, Business and Systems Analysis, Business Process Improvement, and Business Systems Administration. 
-        Passionate about programming and building technical applications, I excel in leveraging my technical expertise and 
-        analytical thinking to overcome challenges and deliver innovative solutions. My ability to translate business requirements
-        and objectives into scalable, highly resilient, and successful system solutions is complemented by a deep passion for 
-        programming and a strong desire to continuously learn and adopt new technologies. I am committed to adding significant
-         value to organizations that value exceptional work performance and foster a culture of growth and innovation.
+        With about 8 years of professional experience, I am a highly skilled and motivated IT professional adept at Software Programming, Business and Systems Analysis, and Business
+        Systems Administration. Operating at a senior level, I have successfully navigated various industries, leveraging my expertise to support businesses in developing and implementing
+        innovative solutions. My track record includes collaborating with teams across diverse sectors such as telecommunications, banking, e-commerce, and logistics, demonstrating
+        adaptability and a deep understanding of industry-specific challenges. Passionate about information technology and driven by a commitment to excellence, I excel in translating
+        complex business requirements into scalable systems that drive efficiency and foster growth. Now seeking to apply my extensive experience and leadership abilities in more senior
+        positions or leadership roles, where I can continue to drive strategic initiatives, mentor teams, and contribute to organizational success.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
