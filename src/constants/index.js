@@ -158,6 +158,13 @@ const experiences = [
     iconBg: '#333333',
     date: 'Mar 2023 - present',
   },
+  {
+    title: 'Systems Analyst',
+    company_name: 'FNB',
+    icon: capitec,
+    iconBg: '#333333',
+    date: 'Mar 2023 - present',
+  },
 ];
 
 const projects = [
