@@ -26,7 +26,8 @@ import {
   takealot,
   csharp,
   dotnet,
-  bootstrap
+  bootstrap,
+  fnb
 } from '../assets';
 
 export const navLinks = [
@@ -161,7 +162,7 @@ const experiences = [
   {
     title: 'Systems Analyst',
     company_name: 'FNB',
-    icon: capitec,
+    icon: fnb,
     iconBg: '#333333',
     date: 'Mar 2023 - present',
   },
